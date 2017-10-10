@@ -1,0 +1,14 @@
+20171010
+repaso de opreraciones de git
+configuracion inicial:
+     git config --global user.name anasan01
+     git config --global user.email 1dam.allorente@institutoserpis.org
+     git config --global push.default simple	
+clonado:
+	git clone https://github.com/anasan01/ed.git
+nueva version:
+	git add diario.txt (marca el fichero diario.txt)
+	git commit -m "Resumen de la nueva version" (incluye los marcados)
+publicación en remoto:
+	git push (nos pide usuario y contraseña)
+
