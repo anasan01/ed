@@ -1,0 +1,6 @@
+/home/anasan01/ed/CSuma/CSuma/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/anasan01/ed/CSuma/CSuma/obj/x86/Debug/CSuma.gtk-gui.gui.stetic
+/home/anasan01/ed/CSuma/CSuma/bin/Debug/CSuma.exe.mdb
+/home/anasan01/ed/CSuma/CSuma/bin/Debug/CSuma.exe
+/home/anasan01/ed/CSuma/CSuma/obj/x86/Debug/CSuma.exe
+/home/anasan01/ed/CSuma/CSuma/obj/x86/Debug/CSuma.exe.mdb

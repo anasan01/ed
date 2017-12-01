@@ -1,0 +1,6 @@
+/home/anasan01/ed/CGtk2/CGtk2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/anasan01/ed/CGtk2/CGtk2/obj/x86/Debug/CGtk2.gtk-gui.gui.stetic
+/home/anasan01/ed/CGtk2/CGtk2/bin/Debug/CGtk2.exe.mdb
+/home/anasan01/ed/CGtk2/CGtk2/bin/Debug/CGtk2.exe
+/home/anasan01/ed/CGtk2/CGtk2/obj/x86/Debug/CGtk2.exe
+/home/anasan01/ed/CGtk2/CGtk2/obj/x86/Debug/CGtk2.exe.mdb

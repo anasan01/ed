@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Adivina2 
 {
 	// \n significa new line ya que no hay printfln//
+	// %s  o %d se sustituye por el valor o frase que se le da a la derecha y en orden//
 	public static void main(String[] args) 
 	{
 		Random random = new Random();
