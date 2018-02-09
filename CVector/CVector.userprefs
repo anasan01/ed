@@ -1,9 +1,10 @@
-﻿<Properties StartupItem="CSuma/CSuma.csproj">
+﻿<Properties StartupItem="CVector.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSuma/MainWindow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VectorTest.cs">
     <Files>
-      <File FileName="CSuma/Program.cs" Line="17" Column="1" />
-      <File FileName="CSuma/MainWindow.cs" Line="24" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Vector.cs" Line="27" Column="44" />
+      <File FileName="VectorTest.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

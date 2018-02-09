@@ -7,7 +7,11 @@ public partial class MainWindow: Gtk.Window
 	{
 		Build ();
 		buttonSuma.Clicked += delegate {
-			labelResultado.Text= entryNumero1.Text+entryNumero2.Text;
+			
+			int numero1= int.Parse(entryNumero1.Text);
+			int numero2=int.Parse(entryNumero2.Text);
+			int resultado= numero1+numero2;
+			labelResultado.Text= resultado.ToString();
 		};
 	}
 
