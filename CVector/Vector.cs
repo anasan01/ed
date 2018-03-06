@@ -8,16 +8,22 @@ namespace CVector
 
 		}
 		/// <summary>
-		/// Obtiene el índice del elemento con el valor mínimo
+		/// Obtiene el indice del elemento con el valor minimo
+		/// Indexs the minimum.
 		/// </summary>
-		/// <returns>El índice del mínimo</returns>
-		/// <param name="v">v vector recorrido</param>
-		/// <param name="initialIndex">Index donde se inicia el recorrido.</param>
-
+		/// <returns>The minimum.</returns>
+		/// <param name="v">V.</param>
+		/// <param name="initialIndex">Initial index.</param>
 
 
 		public static int IndexMin(int[]v, int initialIndex){
-			return -1;
+			if (initialIndex >= v.Length)
+				throw new IndexOutOfRangeException ();
+			int indexMin = initialIndex;
+			for (int index = initialIndex + 1; index < v.Length; index++)
+				if (v [index] < v [indexMin])
+					indexMin = index;
+			return indexMin;
 		}
 		/// <summary>
 		/// Intercambia en el vector los elementos index y otherIndex
@@ -25,7 +31,7 @@ namespace CVector
 		/// <param name="v">v vector a modificar</param>
 		/// <param name="index">El indice de un elemento</param>
 		/// <param name="otherIndex"><Otro indice</param>
-		public static void Swap(int[]v, int index; int otherIndex){
+		public static void Swap(int[]v, int index, int otherIndex){
 		}
 	}
 }
