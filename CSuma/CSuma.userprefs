@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="CSuma/CSuma.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSuma/MainWindow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSuma/Program.cs">
     <Files>
       <File FileName="CSuma/Program.cs" Line="17" Column="1" />
       <File FileName="CSuma/MainWindow.cs" Line="24" Column="1" />

@@ -11,12 +11,13 @@ public class Vector {
 		//propongamos un ejercicio para buscar el valor x dentro del vector y que nos devuelva su posición.
 		//siempre el recorrido será de izq a decha y nos dirá la primera vez que aparezca.
 		//si el número no se encuentra queremos que nos devuelva -1.(ninguna de las posiciones:0,1,2,3,4)
-		int value = 17;
+		int value = 6;
 		
 		int position= indexOf (v, value);
 		System.out.println("position= "+position);
 		int min= min(v);
 		System.out.println("min="+ min);
+	//Arrays.binarySearch(v,7);
 	
 	}
 	//esto sería el método, podemos haerlo sin él con una condición doble en el while &&
